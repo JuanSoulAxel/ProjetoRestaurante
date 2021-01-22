@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1570121880 source:c:\users\denil\desktop\programa«√o\projetorestaurante\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1574343825 source:c:\users\denil\desktop\programa«√o\c\projetorestaurante\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
